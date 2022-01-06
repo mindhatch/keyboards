@@ -82,7 +82,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/home/doyle/keeborbs/gerbers/30/hotswap/")
+      (outputdirectory "/home/doyle/keyboards/gerbers/30keys/hotswap/")
     )
   )
 
@@ -316,7 +316,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4CF52) (tstamp 00000000-0000-0000-0000-00005a91ad51)
-    (at 79.244393 57.058851)
+    (at 79.23 57.058851)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -821,7 +821,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4D85B) (tstamp 00000000-0000-0000-0000-00005a91ae05)
-    (at 79.244389 74.058851)
+    (at 79.23 74.058851)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -922,7 +922,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4D86B) (tstamp 00000000-0000-0000-0000-00005a91ae23)
-    (at 97.233093 77.427564)
+    (at 97.233086 77.427564)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -1023,7 +1023,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4D87B) (tstamp 00000000-0000-0000-0000-00005a91ae41)
-    (at 115.233093 85.927569)
+    (at 115.233089 85.927569)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -1225,7 +1225,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4D89C) (tstamp 00000000-0000-0000-0000-00005a91ae9b)
-    (at 79.244382 91.058862)
+    (at 79.23 91.058862)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -1326,7 +1326,7 @@
 
   (footprint "bugs:Kailh_socket_PG1350_optional_reversible_1u" (layer "F.Cu")
     (tedit 61D4D8AB) (tstamp 00000000-0000-0000-0000-00005a91aeb9)
-    (at 97.233093 94.427566)
+    (at 97.233086 94.427566)
     (descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")

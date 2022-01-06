@@ -186,7 +186,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ad51)
-    (at 79.244393 57.058851)
+    (at 79.23 57.058851)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -366,7 +366,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae05)
-    (at 79.244389 74.058851)
+    (at 79.23 74.058851)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -402,7 +402,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae23)
-    (at 97.233093 77.427564)
+    (at 97.233086 77.427564)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -438,7 +438,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae41)
-    (at 115.233093 85.927569)
+    (at 115.233089 85.927569)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -510,7 +510,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae9b)
-    (at 79.244382 91.058862)
+    (at 79.23 91.058862)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -546,7 +546,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91aeb9)
-    (at 97.233093 94.427566)
+    (at 97.233086 94.427566)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")

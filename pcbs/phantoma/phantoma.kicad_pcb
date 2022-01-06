@@ -82,7 +82,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/home/doyle/keeborbs/gerbers/phantoma/")
+      (outputdirectory "/home/doyle/keyboards/gerbers/phantoma/")
     )
   )
 
@@ -186,7 +186,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ad51)
-    (at 79.26031 44.405728)
+    (at 79.24 44.405728)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -222,7 +222,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ad6f)
-    (at 97.249003 47.774444)
+    (at 97.24901 47.774444)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -366,7 +366,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae05)
-    (at 79.260306 61.405728)
+    (at 79.24 61.405728)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -510,7 +510,7 @@
 
   (footprint "bugs:Choc_reversible" (layer "F.Cu")
     (tedit 60BF60E9) (tstamp 00000000-0000-0000-0000-00005a91ae9b)
-    (at 79.260299 78.405739)
+    (at 79.24 78.405739)
     (descr "Kailh \"Choc\" PG1350 keyswitch")
     (tags "kailh,choc")
     (property "Sheetfile" "midge.kicad_sch")
@@ -3806,7 +3806,6 @@
   (arc (start 122.728427 66.988427) (mid 124.02612 67.855518) (end 125.556854 68.16) (width 0.5) (layer "B.Cu") (net 20) (tstamp e60755ca-473e-4116-98fe-52196eeda21f))
   (arc (start 63.207107 54.317107) (mid 63.531531 54.53388) (end 63.914214 54.61) (width 0.5) (layer "B.Cu") (net 20) (tstamp efc8960d-dd1b-4f41-9139-46a69a48fec2))
   (arc (start 61.890797 53.415011) (mid 62.273481 53.491131) (end 62.597904 53.707904) (width 0.5) (layer "B.Cu") (net 20) (tstamp fa36be4e-7de9-478f-a4ef-c229ac16c103))
-  (segment (start 129.313009 71.954447) (end 129.313008 72.224444) (width 0.4) (layer "F.Cu") (net 21) (tstamp 544eb9de-6d83-4e3e-a737-b373c9291e8a))
   (segment (start 130.621387 73.055717) (end 131.937176 73.055717) (width 0.4) (layer "F.Cu") (net 21) (tstamp 69d94560-ead4-48f1-b08c-212a8f599ad7))
   (segment (start 132.29073 73.202164) (end 132.313009 73.224443) (width 0.4) (layer "F.Cu") (net 21) (tstamp b25e8aa7-495f-4be3-9625-7dce0591b586))
   (segment (start 130.267833 72.90927) (end 129.313009 71.954446) (width 0.4) (layer "F.Cu") (net 21) (tstamp ba9b3100-c014-4ebf-8fd4-d23d6beeb980))
