@@ -15,10 +15,10 @@ microcontroller footprint designed by <a href="https://github.com/jimmerricks/" 
 <h3>first two boards are 30 keys; last two boards are 34 keys</h3>
 <h4>the latter of each pair supports hotswap OR soldered switches</h4>
 
-![30_left](https://user-images.githubusercontent.com/87860507/148312533-6556d739-a99c-41f2-866e-5e35b5ae0d77.png)
+![30_left](https://user-images.githubusercontent.com/87860507/148320589-883f5936-eaa1-4228-9d90-66599ad7555c.png)
 
 ![30_hs_left](https://user-images.githubusercontent.com/87860507/148312532-bb635342-7d72-45d7-a0b9-8d79a4201142.png)
 
-![34_left](https://user-images.githubusercontent.com/87860507/148312536-f42f02e5-94b4-49d3-81ea-c11140f5d4d1.png)
+![34_left](https://user-images.githubusercontent.com/87860507/148320592-2fc976f6-7585-4f61-8484-6247ef5c1eaa.png)
 
-![34_hs_left](https://user-images.githubusercontent.com/87860507/148312534-ea142e2e-6086-4f1b-b3e1-cb749d244dfd.png)
+![34_hs_left](https://user-images.githubusercontent.com/87860507/148320590-6de6dd54-c839-44f5-b10c-3dff43e66657.png)
