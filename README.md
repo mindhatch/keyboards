@@ -9,16 +9,16 @@ microcontroller footprint designed by <a href="https://github.com/jimmerricks/" 
 1.5u thumb, <a href="https://splitkb.com/products/tenting-puck" alt="splitKB tenting puck">splitKB tenting puck</a> support, slightly different stagger/splay and thumb placement
 <br/><br/>
 
-![phantoma_left](https://user-images.githubusercontent.com/87860507/148312538-eea498dc-44c2-493c-96d2-402e5bcf618c.png)
+![phantoma_left](/images/phantoma_left.png?raw=true)
 <br/><br/>
 <h2>the following boards are currently unnamed</h2>
 <h3>first two boards are 30 keys; last two boards are 34 keys</h3>
 <h4>the latter of each pair supports hotswap OR soldered switches</h4>
 
-![30_left](https://user-images.githubusercontent.com/87860507/148320589-883f5936-eaa1-4228-9d90-66599ad7555c.png)
+![30_left](/images/30_left.png?raw=true)
 
-![30_hs_left](https://user-images.githubusercontent.com/87860507/148312532-bb635342-7d72-45d7-a0b9-8d79a4201142.png)
+![30_hs_left](/images/30_hs_left.png?raw=true)
 
-![34_left](https://user-images.githubusercontent.com/87860507/148320592-2fc976f6-7585-4f61-8484-6247ef5c1eaa.png)
+![34_left](/images/34_left.png?raw=true)
 
-![34_hs_left](https://user-images.githubusercontent.com/87860507/148488904-93c1d954-f7c8-4f7b-91a2-e9d2eea3ac14.png)
+![34_hs_left](/images/34_hs_left.png?raw=true)
