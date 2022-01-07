@@ -14,6 +14,7 @@ microcontroller footprint designed by <a href="https://github.com/jimmerricks/" 
 <h2>the following boards are currently unnamed</h2>
 <h3>first two boards are 30 keys; last two boards are 34 keys</h3>
 <h4>the latter of each pair supports hotswap OR soldered switches</h4>
+<h5>these boards are designed to use 1.5u thumb keys</h5>
 
 ![30_left](/images/30_left.png?raw=true)
 
