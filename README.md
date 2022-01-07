@@ -1,6 +1,6 @@
 # keyboards
 <h2>these keyboards have not yet been tested</h2>
-<h3>they are 34 keys or fewer, bluetooth-only, and will accept spring headers for the microcontroller</h3>
+<h3>they are 34 keys or fewer, choc-spaced, bluetooth-only, and will accept spring headers for the microcontroller</h3>
 <br/>
 microcontroller footprint designed by <a href="https://github.com/jimmerricks/" alt="Jimmerricks">Jimmerricks</a> based on a design by <a href="https://github.com/50an6xy06r6n/" alt="50an6xy06r6n">50an6xy06r6n</a>. waterfall traces inspired by <a href="https://github.com/enzocoralc/" alt="enzocoralc">enzocoralc</a>
 <br/><br/></br>
@@ -21,4 +21,4 @@ microcontroller footprint designed by <a href="https://github.com/jimmerricks/" 
 
 ![34_left](https://user-images.githubusercontent.com/87860507/148320592-2fc976f6-7585-4f61-8484-6247ef5c1eaa.png)
 
-![34_hs_left](https://user-images.githubusercontent.com/87860507/148320590-6de6dd54-c839-44f5-b10c-3dff43e66657.png)
+![34_hs_left](https://user-images.githubusercontent.com/87860507/148488904-93c1d954-f7c8-4f7b-91a2-e9d2eea3ac14.png)
