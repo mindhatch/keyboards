@@ -82,7 +82,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/home/doyle/keyboards/gerbers/phantoma/")
+      (outputdirectory "/home/doyle/keyboards/gerbers/phantoma/silk/")
     )
   )
 
