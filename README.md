@@ -1,5 +1,5 @@
 # keyboards!
-<h2>these keyboards have not yet been tested<br/>
+<h2>these keyboards have not yet been tested<br/><br/>
 the mcu footprints are currently setup to accept spring headers</h2>
 <ul>
   <li>34 keys or fewer</li>
