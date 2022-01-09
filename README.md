@@ -61,6 +61,9 @@
     <li>directly inspired by and based on <a href="https://github.com/davidphilipbarr/36keys/tree/master/30keys/thephantom" alt="le phantom">le phantom</a> by <a href="https://github.com/davidphilipbarr/" alt="not your broom">broom</a></li>
   </ul>
 </h3>
-<br/><br/><br/></br/>
+<br/><br/>
+
+![phantoma_left](/images/phantoma_left.png?raw=true)
+<br/></br/><br/></br/>
 <sup>microcontroller footprint designed by <a href="https://github.com/jimmerricks/" alt="Jimmerricks">Jimmerricks</a> based on a design by <a href="https://github.com/50an6xy06r6n/" alt="50an6xy06r6n">50an6xy06r6n</a>.</sup><br/>
 <sup>waterfall traces inspired by <a href="https://github.com/enzocoralc/" alt="enzocoralc">enzocoralc</a></sup>
