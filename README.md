@@ -11,7 +11,7 @@
 </h3>
 <br/><br/>
 
-<h2>ルナ (luna)</h2>
+<h1>ルナ (luna)</h1>
 <h3>
   <ul>
     <li>30 keys</li>
@@ -26,7 +26,7 @@
 ![luna_hs_left](/images/luna_hs_left.png?raw=true)
 <br/><br/>
 
-<h2>美奈子 (minako)</h2>
+<h1>美奈子 (minako)</h1>
 <h3>
   <ul>
     <li>32 keys</li>
@@ -37,7 +37,7 @@
 ![minako_left](/images/minako_left.png?raw=true)
 <br/><br/>
 
-<h2>アルテミス (artemis)</h2>
+<h1>アルテミス (artemis)</h1>
 <h3>
   <ul>
     <li>34 keys</li>
@@ -52,7 +52,7 @@
 ![artemis_hs_left](/images/artemis_hs_left.png?raw=true)
 <br/><br/>
 
-<h2>ファントマ (la phantoma)</h2>
+<h1>ファントマ (la phantoma)</h1>
 <h3>
   <ul>
     <li>30 keys</li>
