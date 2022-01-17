@@ -1,0 +1,8 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_ARTEMIS_LEFT
+	def_bool $(shields_list_contains,artemis_left)
+
+config SHIELD_ARTEMIS_RIGHT
+	def_bool $(shields_list_contains,artemis_right)
