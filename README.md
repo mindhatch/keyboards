@@ -6,7 +6,6 @@
   <li>1.5u thumb keys</li>
   <li>mcu footprint fits spring-loaded pin headers</li>
 </ul>
-<br/><br/>
 
 <h1>ルナ (luna)</h1>
 <ul>
