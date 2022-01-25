@@ -15,7 +15,7 @@
   <li>5&deg; splay on ring column</li>
   <li>12.5&deg; splay on pinky column</li>
   <li>switches can be soldered or used with hotswap sockets</li>
-  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-luna" target="_blank" alt="luna firmware">here</a>.</li>
+  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-luna" alt="luna firmware">here</a>.</li>
 </ul>
 <br/><br/>
 
@@ -28,7 +28,7 @@
   <li>5&deg; splay on ring column</li>
   <li>15&deg; splay on pinky column</li>
   <li>switches are solder-only</li>
-  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-minako" target="_blank" alt="minako firmware">here</a>.</li>
+  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-minako" alt="minako firmware">here</a>.</li>
 </ul>
 <br/><br/>
 
@@ -41,7 +41,7 @@
   <li>5&deg; splay on ring column</li>
   <li>12.5&deg; splay on pinky column</li>
   <li>switches can be soldered or used with hotswap sockets</li>
-  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-artemis" target="_blank" alt="artemis firmware">here</a>.</li>
+  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-artemis" alt="artemis firmware">here</a>.</li>
 </ul>
 <br/><br/>
 
@@ -55,7 +55,7 @@
   <li>12.5&deg; splay on pinky column</li>
   <li>switches are solder-only</li>
   <li>directly inspired by and based on <a href="https://github.com/davidphilipbarr/36keys/tree/master/30keys/thephantom" alt="le phantom">le phantom</a> by <a href="https://github.com/davidphilipbarr/" alt="not your broom">broom</a></li>
-  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-phantoma" target="_blank" alt="artemis firmware">here</a>.</li>
+  <li>firmware can be found <a href="https://github.com/mindhatch/zmk-config-phantoma" alt="artemis firmware">here</a>.</li>
 </ul>
 <br/><br/>
 
