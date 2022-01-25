@@ -4,12 +4,16 @@
   <li>choc-spaced</li>
   <li>bluetooth-only</li>
   <li>1.5u thumb keys</li>
+  <li>column staggered</li>
+  <li>splayed ring and pinky columns</li>
   <li>mcu footprint fits spring-loaded pin headers</li>
 </ul>
 
 <h1>ルナ (luna)</h1>
 <ul>
   <li>30 keys</li>
+  <li>5&deg; splay on ring column</li>
+  <li>12.5&deg; splay on pinky column</li>
   <li>switches can be soldered or used with hotswap sockets</li>
 </ul>
 <br/><br/>
@@ -20,6 +24,8 @@
 <h1>美奈子 (minako)</h1>
 <ul>
   <li>32 keys</li>
+  <li>5&deg; splay on ring column</li>
+  <li>15&deg; splay on pinky column</li>
   <li>switches are solder-only</li>
 </ul>
 <br/><br/>
@@ -30,6 +36,8 @@
 <h1>アルテミス (artemis)</h1>
 <ul>
   <li>34 keys</li>
+  <li>5&deg; splay on ring column</li>
+  <li>12.5&deg; splay on pinky column</li>
   <li>switches can be soldered or used with hotswap sockets</li>
 </ul>
 <br/><br/>
@@ -40,9 +48,9 @@
 <h1>ファントマ (la phantoma)</h1>
 <ul>
   <li>30 keys</li>
+  <li>5&deg; splay on ring column</li>
+  <li>12.5&deg; splay on pinky column</li>
   <li>switches are solder-only</li>
-  <li>1.5u homing thumb keys</li>
-  <li>slight difference in stagger, splay, thumb placements</li>
   <li>directly inspired by and based on <a href="https://github.com/davidphilipbarr/36keys/tree/master/30keys/thephantom" alt="le phantom">le phantom</a> by <a href="https://github.com/davidphilipbarr/" alt="not your broom">broom</a></li>
 </ul>
 <br/><br/>
